@@ -2,7 +2,7 @@
 
 ## 1. Keterangan Singkat (Abstrak)
 
-Dalam percobaan ini program dibuat untuk dapat mentransmisikan pesan atau data antara perangkat 
+Dalam percobaan ini program dibuat untuk dapat melakukan koneksi dengan broker dan dapat menerima pesan atau data antara perangkat 
 ## 2. Alat dan Bahan
 1. ESP32             ==> 1 buah
 2.  LED              ==> 1 buah
