@@ -3,8 +3,8 @@
 
 Jobsheet 6 merupakan jobsheet yang menggunakan protokol MQTT dalam prakteknya. Dalam jobsheet ini terdapat beberapa modul subjob yang mencakup berbagai aspek penting, termasuk:
 
-1. **Koneksi MQTT Broker:** Belajar melakukan koneksi dengan broker dan mentransmisikan pesan/data antar perangkat atau aplikasi. 
-2. **Menerima Data JSON Melalui Protokol MQTT:** Belajar tentang mentransmisikan data dalam bentuk JSON menggunakan MQTT.
+1. **Koneksi MQTT Broker:** Belajar melakukan koneksi dengan broker dan menerima pesan/data antara perangkat atau aplikasi. 
+2. **Menerima Data JSON Melalui Protokol MQTT:** Belajar tentang menerima data dalam bentuk JSON menggunakan MQTT.
 3. **Mengirim Dummy Data untuk Simulasi I/O Menggunakan Hardware:** Belajar tentang mengirim data dummy menggunakan ekstensi MQTTbox .
 
 Selamat mencoba dan semoga bermanfaat!
