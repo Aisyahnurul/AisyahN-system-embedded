@@ -5,16 +5,9 @@
 Dalam percobaan ini program dibuat untuk dapat mengirim pesan atau data dengan menggunakan ekstensi MQTTbox
 
 ## 2. Alat dan Bahan
-1. ESP32             ==> 1 buah
-2. LED               ==> 1 buah
-3. Multimeter        ==> 1 buah
-4. Breadboard        ==> 1 buah
-5. Sensor DHT11      ==> 1 buah
-6. Potensiometer     ==> 1 buah
-7. Resistor 1K Ohm   ==> 1 buah
-8. Kabel jumper
+1. Laptop
+2. Node Red
    
-
 ## 3. Hasil dan Pembahasan
 
 ### Hasil Percobaan
