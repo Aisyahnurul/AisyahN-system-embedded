@@ -8,6 +8,7 @@
 ![jobsheet 4 A _Setting_SSID_dan_Password_Wi-Fi_ESP32_melalui_Web_Server](https://github.com/Aisyahnurul/AisyahN-system-embedded/assets/147674662/ea8c13bc-ceec-4e23-b6bd-782e1bcefb0c)
 
 ## 3. Flowchart
+![jobsheet 4 A flowchart](https://github.com/Aisyahnurul/AisyahN-system-embedded/assets/147674662/26b1622e-6ddd-42bb-a2b7-6e63fca710a7)
 
 
 ## 4. Hasil dan Pembahasan
