@@ -6,7 +6,7 @@
 
 ## 2. Source Code
 
-Program dapat dilihat <a href="https://github.com/brianrahma/brian-system-embedded/blob/master/jobsheet%203/d.%20Mengganti%20Hostname%20ESP32/program/Mengganti%20Hostname%20ESP32.ino"> disini </a> atau dibawah ini
+Program dapat dilihat <a href="https://github.com/Aisyahnurul/AisyahN-system-embedded/blob/main/jobsheet%203/d.%20Mengganti%20Hostname%20ESP32/program/Mengganti%20Hostname%20ESP32.ino"> disini </a> atau dibawah ini
 <img src="https://github.com/brianrahma/brian-system-embedded/assets/82065700/0fe97a3f-c461-4787-9fa7-2d0fea2ecc96" width="800">
 
 ## 3. Flowchart
