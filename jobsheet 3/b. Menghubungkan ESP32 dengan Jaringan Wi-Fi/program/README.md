@@ -6,7 +6,7 @@
 
 ## 2. Source Code
 
-Program dapat dilihat <a href="https://github.com/brianrahma/brian-system-embedded/blob/master/jobsheet%203/b.%20Menghubungkan%20ESP32%20dengan%20Jaringan%20Wi-Fi/program/ESP32%20connect%20Wi-Fi.ino"> disini </a> atau dibawah ini
+Program dapat dilihat <a href="https://github.com/Aisyahnurul/AisyahN-system-embedded/blob/main/jobsheet%203/b.%20Menghubungkan%20ESP32%20dengan%20Jaringan%20Wi-Fi/program/ESP32%20connect%20Wi-Fi.ino"> disini </a> atau dibawah ini
 <img src="https://github.com/brianrahma/brian-system-embedded/assets/82065700/9fe36371-4b73-4d26-964d-11cd58cf77f7" width="800">
 
 ## 3. Flowchart
