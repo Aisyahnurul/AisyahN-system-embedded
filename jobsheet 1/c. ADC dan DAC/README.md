@@ -23,7 +23,6 @@ Dalam percobaan ini program dibuat untuk dapat membaca nilai analog yang dihasil
 
 ### Source Code
 
-Program dapat dilihat <a href="https://github.com/brianrahma/brian-system-embedded/blob/master/jobsheet%201/c.%20ADC%20dan%20DAC/1._contoh_ADC_dan_DAC_dengan_potensiometer/1._contoh_ADC_dan_DAC_dengan_potensiometer.ino"> disini </a> atau dibawah ini
 ![ADC 1](https://github.com/brianrahma/brian-system-embedded/assets/82065700/8577a659-931b-40f5-a8fa-7485bebd4e36)
 
 
@@ -69,7 +68,6 @@ Dalam percobaan ini program dibuat untuk mengendalikan kecerahan LED menggunakan
 
 ### Source Code
 
-Program dapat dilihat <a href="https://github.com/brianrahma/brian-system-embedded/blob/master/jobsheet%201/c.%20ADC%20dan%20DAC/2._Program_Mengatur_Cahaya_Led_dengan_Potensio/2._Program_Mengatur_Cahaya_Led_dengan_Potensio.ino"> disini </a> atau dibawah ini
 ![ADC 2](https://github.com/brianrahma/brian-system-embedded/assets/82065700/21709f74-e30f-410c-8e34-36edfaa39933)
 
 ### Flowchart
