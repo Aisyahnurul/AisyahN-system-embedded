@@ -62,7 +62,6 @@ Dalam percobaan ini program dibuat untuk dapat menghasilkan LED blink 1 detik se
 
 ### Source Code
 
-Program dapat dilihat <a href="https://github.com/brianrahma/brian-system-embedded/blob/master/jobsheet%201/a.%20GPIO/2._blink_1_detik_sekali_menggunakan_timer_milis/2._blink_1_detik_sekali_menggunakan_timer_milis.ino"> disini </a> atau dibawah ini
 ![carbon (1)](https://github.com/brianrahma/brian-system-embedded/assets/82065700/929e1001-114f-4ce8-a32d-53ce97b70e0f)
 
 ### Flowchart
@@ -104,7 +103,6 @@ Dalam percobaan ini program dibuat untuk dapat mengendalikan led menggunakan pus
 
 ### Source Code
 
-Program dapat dilihat <a href="https://github.com/brianrahma/brian-system-embedded/blob/master/jobsheet%201/a.%20GPIO/3._mengendalikan_led_menggunakan_push_button/3._mengendalikan_led_menggunakan_push_button.ino"> disini </a> atau dibawah ini
 ![carbon (2)](https://github.com/brianrahma/brian-system-embedded/assets/82065700/4d85a256-725e-40fd-b637-39944ba1028a)
 
 ### flowchart
@@ -146,7 +144,6 @@ Dalam percobaan ini program dibuat untuk dapat mengendalikan led menggunakan pus
 
 ### Source Code
 
-Program dapat dilihat <a href="https://github.com/brianrahma/brian-system-embedded/blob/master/jobsheet%201/a.%20GPIO/4._push_button_ke-2_ditekan_maka_LED_blink_500ms_sekali/4._push_button_ke-2_ditekan_maka_LED_blink_500ms_sekali.ino"> disini </a> atau dibawah ini
 ![carbon (3)](https://github.com/brianrahma/brian-system-embedded/assets/82065700/1a30f03e-3a84-4078-91e6-e87dfe39050c)
 
 ### Flowchart
@@ -187,7 +184,6 @@ Dalam percobaan ini program dibuat untuk dapat mengendalikan led menggunakan pus
 
 ### Sorce Code
 
-Program dapat dilihat <a href="https://github.com/brianrahma/brian-system-embedded/blob/master/jobsheet%201/a.%20GPIO/5._push_button_ke-3_ditekan_maka_LED_running/5._push_button_ke-3_ditekan_maka_LED_running.ino"> disini </a> atau dibawah ini
 ![carbon (4)](https://github.com/brianrahma/brian-system-embedded/assets/82065700/b9a6738f-8cf2-45af-98ec-b1685ef30919)
 ### Flowchart
 
