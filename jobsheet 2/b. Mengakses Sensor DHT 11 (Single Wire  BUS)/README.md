@@ -11,7 +11,7 @@ Dalam percobaan ini program dibuat untuk dapat memahami bagaimana cara untuk mem
 <img src="https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/5652d042-d7f5-49df-9936-d3c632b0c1c3" width="500">
 
 ## 3. Source Code
-Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/tree/master/jobsheet%202/b.%20Mengakses%20Sensor%20DHT%2011%20(Single%20Wire%20%20BUS)/1.%20program%20contoh%20dht11"> disini </a> atau dibawah ini
+Program dapat dilihat <a href="https://github.com/Aisyahnurul/AisyahN-system-embedded/blob/main/jobsheet%202/b.%20Mengakses%20Sensor%20DHT%2011%20(Single%20Wire%20%20BUS)/1.%20program%20contoh%20dht11/dht11.ino"> disini </a> atau dibawah ini
 <img src="https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/38b89bf3-4847-4742-8be1-b4ef9607aef1" width="800">
 
 ## 4. Hasil dan Pembahasan
@@ -36,7 +36,7 @@ suhu dibawah 36 derajat, ESP32 akan mematikan buzzer dan menyalakan LED berbentu
 
 ## 3. Source Code
 
-Program dapat dilihat <a href="https://github.com/sabrinavirry/Sistem-Embedded/blob/master/jobsheet%202/b.%20Mengakses%20Sensor%20DHT%2011%20(Single%20Wire%20%20BUS)/2.%20saat%20suhu%20ruang%2030%20derajat%20maka%20LED%20dan%20buzzer%20nyala/dht11_2.ino"> disini </a> atau dibawah ini
+Program dapat dilihat <a href="https://github.com/Aisyahnurul/AisyahN-system-embedded/blob/main/jobsheet%202/b.%20Mengakses%20Sensor%20DHT%2011%20(Single%20Wire%20%20BUS)/2.%20saat%20suhu%20ruang%2030%20derajat%20maka%20LED%20dan%20buzzer%20nyala/dht11_2.ino"> disini </a> atau dibawah ini
 <img src="https://github.com/sabrinavirry/Sistem-Embedded/assets/151721571/d337ddd7-00ea-47f7-a29d-45dd0e05667b" width="800">
 
 ## 3. Hasil dan Pembahasan
