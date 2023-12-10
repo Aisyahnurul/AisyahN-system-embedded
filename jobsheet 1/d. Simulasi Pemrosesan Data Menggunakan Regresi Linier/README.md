@@ -38,7 +38,7 @@ Tanah medium
 
 ### Source Code
 
-Program dapat dilihat <a href="https://github.com/brianrahma/brian-system-embedded/blob/master/jobsheet%201/d.%20Simulasi%20Pemrosesan%20Data%20Menggunakan%20Regresi%20Linier/1.%20program%20contoh.ino"> disini </a> serta lanjutannya <a href="https://github.com/brianrahma/brian-system-embedded/blob/master/jobsheet%201/d.%20Simulasi%20Pemrosesan%20Data%20Menggunakan%20Regresi%20Linier/2._program_lanjutan.ino"> disini </a> 
+Program dapat dilihat <a href="https://github.com/Aisyahnurul/AisyahN-system-embedded/blob/main/jobsheet%201/d.%20Simulasi%20Pemrosesan%20Data%20Menggunakan%20Regresi%20Linier/1.%20program%20contoh.ino"> disini </a> serta lanjutannya <a href="https://github.com/Aisyahnurul/AisyahN-system-embedded/blob/main/jobsheet%201/d.%20Simulasi%20Pemrosesan%20Data%20Menggunakan%20Regresi%20Linier/2._program_lanjutan.ino"> disini </a> 
 
 Dalam percobaan ini pengumpulan data kelembaban tanah dilakukan dengan membaca sensor soil Capacitive Soil Moisture dan mencatat pembacaan dari 3-way meter untuk kondisi tanah medium, kering, dan basah. Setelah data terkumpul, analisis regresi linier dapat memberikan pemahaman lebih lanjut tentang sejauh mana pembacaan sensor soil Capacitive Soil Moisture dapat diandalkan sebagai indikator kelembaban tanah dalam konteks kondisi yang berbeda. Simulasi ini dapat membantu memahami seberapa baik sensor Capacitive Soil Moisture dapat merepresentasikan kelembaban tanah dibandingkan dengan metode lain seperti 3-way meter, dan sejauh mana regresi linier dapat digunakan untuk memahami dan memodelkan hubungan di antara keduanya. 
 
