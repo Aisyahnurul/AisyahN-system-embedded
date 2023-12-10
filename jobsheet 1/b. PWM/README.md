@@ -22,7 +22,7 @@ Dalam percobaan ini program dibuat untuk dapat menghasilkan sebuah LED yang dapa
 
 ### Source Code
 
-Program dapat dilihat <a href="https://github.com/brianrahma/brian-system-embedded/blob/master/jobsheet%201/b.%20PWM/1.%20mengendalikan%20kecerahan%20sebuah%20LED%20menggunakan%20modul%20PWM%20(Pulse%20Width%20Modulation)/1._contoh_PWM.ino"> disini </a> atau dibawah ini
+
 ![carbon (5)](https://github.com/brianrahma/brian-system-embedded/assets/82065700/b170f112-a80e-4f91-b6de-1c6162c6f43b)
 
 ### Flowchart
@@ -65,7 +65,6 @@ Dalam percobaan ini program dibuat untuk dapat menghasilkan 3 LED yang dapat dik
 
 ### Source Code
 
-Program dapat dilihat <a href="https://github.com/brianrahma/brian-system-embedded/blob/master/jobsheet%201/b.%20PWM/2.%20mengendalikan%20kecerahan%203%20LED%20menggunakan%20modul%20PWM%20(Pulse%20Width%20Modulation)/2._program_lanjutan.ino"> disini </a> atau dibawah ini
 ![carbon (6)](https://github.com/brianrahma/brian-system-embedded/assets/82065700/f90f2680-5dab-4aca-888b-70d55b64005a)
 
 ### Flowchart
