@@ -22,5 +22,3 @@
    ![2  hasil Flow program untuk parsing data JSON](https://github.com/Aisyahnurul/AisyahN-system-embedded/assets/147674662/dd7c2d39-305a-4685-87b5-b9bb1ec4b694)
  
 
-<p align="justify">Pada percobaan ini output yang dihasilkan yaitu berupa tabel yang berisi project dari praktikum seperti time, temp, humi dan lain-lain.
-<br></br>
