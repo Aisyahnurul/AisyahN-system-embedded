@@ -1,7 +1,7 @@
 # A. Instalasi SQL Server (MySQL)
 
 ## 1. Keterangan Singkat (Abstrak)
-<p align="justify">Percobaan Instalasi SQL Server menggunakan terminal ubuntu
+<p align="justify">Pada percobaan kali ini yaitu Instalasi SQL Server menggunakan terminal ubuntu. MySQL adalah RDBMS, yang berarti data disimpan dalam tabel yang terorganisir secara relasional. Mengikuti model relasional yang menggunakan konsep tabel, baris, dan kolom.
 
 ## 2. Alat dan Bahan
 1. Node Red
