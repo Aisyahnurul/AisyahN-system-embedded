@@ -6,7 +6,7 @@
 
 ## 2. Source Code
 
-1. Program ESP32 sebagai sender dapat dilihat <a href="https://github.com/brianrahma/system-embedded/blob/master/jobsheet%202.1/d.%20One-Way%2C%20Many-to-One%20Communication/1.%203%20board%20diatur%20sebagai%20Sender%20dan%201%20board%20diatur%20sebagai%20receiver/sender.ino">disini
+1. Program ESP32 sebagai sender dapat dilihat <a href="https://github.com/Aisyahnurul/AisyahN-system-embedded/blob/main/jobsheet%202.1/d.%20One-Way%2C%20Many-to-One%20Communication/sender.ino">disini
 2. Program ESP32 sebagai receiver dapat dilihat <a href="https://github.com/brianrahma/system-embedded/blob/master/jobsheet%202.1/d.%20One-Way%2C%20Many-to-One%20Communication/1.%203%20board%20diatur%20sebagai%20Sender%20dan%201%20board%20diatur%20sebagai%20receiver/receiver.ino">disini
 
 ## 3. Hasil dan Pembahasan
