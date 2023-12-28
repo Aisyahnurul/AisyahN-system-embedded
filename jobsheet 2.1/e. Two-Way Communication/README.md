@@ -7,7 +7,7 @@
 <img src="https://github.com/brianrahma/system-embedded/assets/82065700/5d566ac5-972f-4f71-a616-6293307b34d3" width="500">
 
 ### b. Source Code
-Program ESP32 dapat dilihat <a href="https://github.com/brianrahma/system-embedded/blob/master/jobsheet%202.1/e.%20Two-Way%20Communication/1.%20program%20contoh%20pengecekan%20sensor%20DHT11/2_unit_ESP32_dan_2_unit_sensor_DHT11.ino">disini
+Program ESP32 dapat dilihat <a href="https://github.com/Aisyahnurul/AisyahN-system-embedded/blob/main/jobsheet%202.1/e.%20Two-Way%20Communication/1.%20program%20contoh%20pengecekan%20sensor%20DHT11/2_unit_ESP32_dan_2_unit_sensor_DHT11.ino">disini
 
 ### C. Hasil dan Pembahasan
 
